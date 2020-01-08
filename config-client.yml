@@ -1,6 +1,6 @@
 info:
- profile:default
- lable:master
+ profile: default
+ lable: master
 text:
- des:this is a profile description
+ des: this is a profile description
 	
